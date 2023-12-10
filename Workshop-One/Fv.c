@@ -5,7 +5,7 @@ int main() {
     printf("Enter a character: ");
 
     // Use %c to read a single character
-    scanf(" %c ", &ch);
+    scanf("%c", &ch);
 
     // Check if enter key is pressed
     if (ch == '\n') {
@@ -18,8 +18,9 @@ int main() {
         // Convert to lowercase by adding 32 to the ASCII value
         printf("Converted to lowercase: %c\n", ch + 32);
     } else {
-        // If lowercase, print as it is
-        printf("Entered lowercase character: %c\n", ch- 32);
+        // If lowercase, convert to uppercase
+        printf("Converted to uppercase: %c\n", ch- 32);
+
     }
 
     return 0;
