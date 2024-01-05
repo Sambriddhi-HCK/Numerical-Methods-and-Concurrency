@@ -1,0 +1,24 @@
+Employee Name: Ram
+Age: 15
+Salary: 2312.52
+
+Employee Name: B
+Age: 23
+Salary: 1234.42
+
+Employee Name: C
+Age: 23
+Salary: 432.42
+
+Employee Name: T
+Age: 32
+Salary: 123.21
+
+Employee Name: Red
+Age: 21
+Salary: 213.32
+
+Employee Name: Tenzii
+Age: 20
+Salary: 123456.66
+

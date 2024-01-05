@@ -1,0 +1,20 @@
+Employee Name: A
+Age: 2
+Salary: 12.12
+
+Employee Name: B
+Age: 21
+Salary: 21.21
+
+Employee Name: C
+Age: 23
+Salary: 23.32
+
+Employee Name: w
+Age: 12
+Salary: 211.00
+
+Employee Name: e
+Age: 212
+Salary: 1312.00
+
